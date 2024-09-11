@@ -1,0 +1,8 @@
+[submodule "addons-l10n_mx_submodule"]
+	path = addons-l10n_mx_submodule
+	url = git@github.com:birtumsoft/addons-l10n_mx.git
+	branch = 17.0-SEVCO
+[submodule "third_party_apps_submodule"]
+	path = third_party_apps_submodule
+	url = git@github.com:birtumsoft/third_party_apps.git
+	branch = 17.0-SEVCO
